@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(183, 219, 248);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    border: 10px solid skyblue;
+    border-radius: 15px;
+
+}
+
+div {
+    width: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    text-align: center;
+    text-shadow: 0px 0px 2px blue;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-size: 270%;
+    border-color: thistle;
+}
+
+.si {
+    background-color: aquamarine;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 10px solid rgb(70, 173, 165);
+    border-radius: 70px;
+    box-sizing: border-box;
+}
+
+.hola {
+    text-align: justify;
+}
+
+.furina {
+    width: 100%;
+}
+
+.corazon {
+    width: 24%;
+}
